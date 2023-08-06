@@ -18,3 +18,14 @@ function isTriangle(a,b,c) {
 }
 
 console.log(isTriangle(13,10,15))
+
+/* More advanced solution
+
+function isTriangle(a,b,c)
+{
+ let max = Math.max(a, b, c);
+  let sum = a + b + c;
+  return sum - max > max;
+}
+
+*/
