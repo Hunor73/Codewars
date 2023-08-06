@@ -19,6 +19,7 @@ function isTriangle(a,b,c) {
 
 console.log(isTriangle(13,10,15))
 
+
 /* More advanced solution
 
 function isTriangle(a,b,c)
