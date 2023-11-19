@@ -18,3 +18,9 @@ function solution(str, ending){
 
 console.log(solution('abc', 'bc')); // should return true
 console.log(solution('abc', 'd'));  // should return false
+
+/*
+function solution(str, ending){
+  return str.endsWith(ending);
+}
+*/
