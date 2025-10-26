@@ -26,4 +26,4 @@ function roundToNext5(n){
 }
 
 // Example
-console.log(roundToNext5(13));
+console.log(roundToNext5(3));
